@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{53E126C9-3F62-44AB-AB13-07F7E263B2AA}</ProjectGuid>
+    <ProjectGuid>{1F9AC628-3A77-400D-B44E-89F0F3828652}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>testapp</RootNamespace>
-    <AssemblyName>testapp</AssemblyName>
+    <RootNamespace>Harjoitus_3</RootNamespace>
+    <AssemblyName>Harjoitus 3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="koira.cs" />
+    <Compile Include="kiuas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Karime25222\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olli ohjelmointi\oli ohjelmointi\harjoitus4\bin\Debug\harjoitus4.exe.config
+C:\Users\Administrator\source\repos\Karime25222\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olli ohjelmointi\oli ohjelmointi\harjoitus4\bin\Debug\harjoitus4.exe
+C:\Users\Administrator\source\repos\Karime25222\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olli ohjelmointi\oli ohjelmointi\harjoitus4\bin\Debug\harjoitus4.pdb
+C:\Users\Administrator\source\repos\Karime25222\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olli ohjelmointi\oli ohjelmointi\harjoitus4\obj\Debug\harjoitus4.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Karime25222\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olli ohjelmointi\oli ohjelmointi\harjoitus4\obj\Debug\harjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Karime25222\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olli ohjelmointi\oli ohjelmointi\harjoitus4\obj\Debug\harjoitus4.exe
+C:\Users\Administrator\source\repos\Karime25222\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olli ohjelmointi\oli ohjelmointi\harjoitus4\obj\Debug\harjoitus4.pdb
